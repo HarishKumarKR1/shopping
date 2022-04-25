@@ -1,0 +1,11 @@
+main{
+  min-height: 80vh;
+}
+.icons{
+  position:fixed;
+  right:20px;
+}
+.quantity{
+  border-radius: 4px;
+  width:auto;
+}
